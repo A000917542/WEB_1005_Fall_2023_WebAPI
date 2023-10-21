@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LDhS1Qa8X2Fauf5WVkcH1qvtrfj3zYS9ZuCS6qPDE94L4GA8Nr3gVn7ux31EOL/qW5vWfUHocKwFCqO/AV3Kyw==",
+  "success": true,
+  "projectFilePath": "D:\\source\\repos\\WEB-1005-Fall-2023-WebAPI\\WEB-1005-Fall-2023-WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brent-Cambrian\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "C:\\Users\\Brent-Cambrian\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Brent-Cambrian\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Brent-Cambrian\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Brent-Cambrian\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Brent-Cambrian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Brent-Cambrian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
